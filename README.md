@@ -1,11 +1,10 @@
 HOLA, MI NOMBRE ES DIEGO ALEJANDRO BECERRA
 
-*QUIEN SOY?
-soy un programador fullStack orientado hacia el back-end y creacion de material web
-
-dentre al mundo de la programacion desde bastante joven y soy una persona que le gusta siempre seguir aprendiendo y descubriendo nuevos caminos en este maravilloso mundo
+*¿QUIEN SOY? 
+-Soy un programador fullStack orientado hacia el back-end y creación de material web.
+-soy una persona analista que se centra en completar sus tareas siempre de la mejor manera, tambien me gusta dedicarme 100% a mis deberes y procuro siempre terminar y no dejar nada pendiente.
 *QUE HAGO?
-actualmente me dedico a realizar proyectos para seguir puliendo mis habilidades y conocimientos para siempre hacer mis trabajos de la mejor manera
+actualmente me dedico a realizar proyectos para seguir puliendo mis habilidades para mejorear o actualizar los conocimientos de todas las tecnologias que utilizo
 
 *QUE TECNOLOGIAS USO?
 -java
